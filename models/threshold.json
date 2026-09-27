@@ -1,0 +1,23 @@
+{
+  "threshold": 0.4,
+  "best_val_f05": 0.07751755651755651,
+  "feature_names": [
+    "name_ratio",
+    "name_partial_ratio",
+    "name_token_sort_ratio",
+    "name_token_set_ratio",
+    "name_jaro_winkler",
+    "name_first_token_match",
+    "name_exact_match",
+    "name_length_ratio",
+    "addr_ratio",
+    "addr_token_sort_ratio",
+    "addr_token_set_ratio",
+    "addr_token_jaccard",
+    "addr_num_overlap_count",
+    "addr_num_jaccard",
+    "postal_code_match",
+    "is_source_2",
+    "is_source_3"
+  ]
+}

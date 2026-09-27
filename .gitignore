@@ -1,0 +1,38 @@
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Datasets & Archives (Exceeds GitHub limits)
+*.zip
+*.tar.gz
+student_resource/dataset/
+*.tsv
+*.csv
+
+# Prediction Outputs (generated data)
+output/*
+!output/.gitkeep
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+__MACOSX/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
